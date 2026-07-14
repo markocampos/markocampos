@@ -20,9 +20,19 @@
 ---
 
 ### [Michi](https://github.com/markocampos/Michi)
-A self-evolving app experiment. Exploring Japanese language + APK distribution with Vue.js.
+A self-evolving Japanese language learning app. Built for APK distribution with Vue.js + Capacitor — optimized for solo development on tablet, phone, and Chromebook.
 
-**Stack:** `Vue` `JavaScript` `Capacitor`
+**Stack:** `Vue 3` `JavaScript` `Capacitor` `SQLite` `Native Audio`
+
+**Features:**
+- Hiragana, Katakana, and JLPT N5–N4 Kanji character grids with progress tracking
+- Offline-first SQLite storage for quiz scores and character unlocks
+- Native audio pronunciation via Capacitor community plugins
+- Dark mode toggle with persistent settings
+- Swipeable navigation between character sets
+- Quiz system with multiple choice and linking questions
+
+**Distribution:** Built for Android APK sideloading — no Play Store required.
 
 ---
 
